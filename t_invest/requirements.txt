@@ -1,3 +1,5 @@
 tinkoff-investments
 pandas
 mplfinance
+yfinance
+python-dotenv
