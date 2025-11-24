@@ -3,3 +3,4 @@ pandas
 mplfinance
 yfinance
 python-dotenv
+openai
